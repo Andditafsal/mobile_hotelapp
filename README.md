@@ -16,7 +16,7 @@
   ![S1](https://user-images.githubusercontent.com/79301323/175082111-e993599e-42b7-4bff-a7f3-bd74e2371a9a.png)
 
 
-<p>Open-closed Principle (OCP)<p>
+<p>#Open-closed Principle (OCP)<p>
  <p>Open-Close Principle adalah prinsip yang menyatakan bahwa Objek atau entitas itu terbuka untuk ekstensi tetapi tertutup untuk modifikasi<p>
  <p> Implementasi OCP<p>
    
@@ -24,7 +24,7 @@
    
 
 
-<p>Liskov Substitution Principle (LSP)<p>
+<p>#Liskov Substitution Principle (LSP)<p>
   <p>Liskov-Substitution adalah prinsip yang menyatakan bahwa ketika terdapat kelas X yang diturunin dari class Y, maka objek yang berasal dari kelas Y harus bisa menggantikan dengan objek dari kelas X <p>
     <p> Contohnya pada class user ke class Admin<p>
      
@@ -32,7 +32,9 @@
 ![liskop](https://user-images.githubusercontent.com/79301323/175087107-823cb347-8bcd-4d96-95ad-46ca5cb2e387.png)
 
   
-<p>Interface Segragation Principle<p> 
+<p>#Interface Segragation Principle<p> 
 <p>prinsip yang menyatakan bahwa sebuah objek client tidak boleh dipaksa untuk mengimplementasikan sebuah interface yang tidak ia gunakan. Atau objek client tidak boleh bergantung pada metode yang tidak ia gunakan.<p>
-        
-        
+
+  
+       ![4](https://user-images.githubusercontent.com/79301323/175088677-3b92cfc6-7217-4520-8fd2-4688e28c9e96.png)
+ 
