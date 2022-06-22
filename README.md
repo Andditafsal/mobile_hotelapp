@@ -38,3 +38,12 @@
   
 ![4 1](https://user-images.githubusercontent.com/79301323/175090024-1417455b-4035-4e2c-b9be-2b8b81a8fe82.png)
 
+
+<p>#Dependency Inversionn Principle (ISP)<p>
+<p>prinsip yang menyetakan bahwa sebuah entitas itu bergantung pada abstraksi. Sehingga sebuah modul tingkat tinggi tidak boleh bergantung pada modul tingkat rendah, tetapi bergantung kepada abstraksi.
+
+  
+<![5](https://user-images.githubusercontent.com/79301323/175090811-b0d978f9-2d0e-43d0-a0b5-d2342d65a745.png)
+p>
+  
+ 
