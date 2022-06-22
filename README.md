@@ -22,16 +22,22 @@
    
    ![benar](https://user-images.githubusercontent.com/79301323/175084250-0b583f2c-adf1-472a-a36e-07125de301d9.png)
    
+
+
 <p>Liskov Substitution Principle (LSP)<p>
-  <p>Liskov-Substitution adalah prinsip yang menyatakan bahwa ketika terdapat kelas X yang diturunin dari class Y, maka objek yang berasal dari kelas Y harus bisa menggantikan dengan objek dari kelas X<p>
+  <p>Liskov-Substitution adalah prinsip yang menyatakan bahwa ketika terdapat kelas X yang diturunin dari class Y, maka objek yang berasal dari kelas Y harus bisa menggantikan dengan objek dari kelas X <p>
     <p> Contohnya pada class user ke class Admin<p>
      
+      
+      
       ![liskop](https://user-images.githubusercontent.com/79301323/175086605-a3f5d985-6023-4bd0-8e8e-f0f04b5a01cc.png)
 
       
     
       
-   <p>Interface Segregation Principle (ISP)<p>
+   
+
+<p>Interface Segregation Principle (ISP)<p>
      <p> prinsip yang menyatakan bahwa sebuah objek client tidak boleh dipaksa untuk mengimplementasikan sebuah interface yang tidak ia gunakan. Atau objek client tidak boleh bergantung pada metode yang tidak ia gunakan.<p>
    
   
