@@ -36,5 +36,5 @@
 <p>prinsip yang menyatakan bahwa sebuah objek client tidak boleh dipaksa untuk mengimplementasikan sebuah interface yang tidak ia gunakan. Atau objek client tidak boleh bergantung pada metode yang tidak ia gunakan.<p>
 
   
-![4](https://user-images.githubusercontent.com/79301323/175088677-3b92cfc6-7217-4520-8fd2-4688e28c9e96.png)
- 
+![4 1](https://user-images.githubusercontent.com/79301323/175090024-1417455b-4035-4e2c-b9be-2b8b81a8fe82.png)
+
