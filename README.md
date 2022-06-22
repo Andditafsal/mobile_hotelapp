@@ -20,7 +20,8 @@
  
   <p>Implementasi SRP<p>
     
-    ![S1](https://user-images.githubusercontent.com/79301323/175081852-4c3b7e44-b8ed-4dc6-90bc-f927299fc8dd.png)
+  ![S1](https://user-images.githubusercontent.com/79301323/175082111-e993599e-42b7-4bff-a7f3-bd74e2371a9a.png)
+
 
     
   
