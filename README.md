@@ -29,15 +29,6 @@
     <p> Contohnya pada class user ke class Admin<p>
      
       
-      
-      ![liskop](https://user-images.githubusercontent.com/79301323/175086605-a3f5d985-6023-4bd0-8e8e-f0f04b5a01cc.png)
+![liskop](https://user-images.githubusercontent.com/79301323/175087107-823cb347-8bcd-4d96-95ad-46ca5cb2e387.png)
 
-      
-    
-      
-   
-
-<p>Interface Segregation Principle (ISP)<p>
-     <p> prinsip yang menyatakan bahwa sebuah objek client tidak boleh dipaksa untuk mengimplementasikan sebuah interface yang tidak ia gunakan. Atau objek client tidak boleh bergantung pada metode yang tidak ia gunakan.<p>
-   
   
