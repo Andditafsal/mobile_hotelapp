@@ -32,3 +32,7 @@
 ![liskop](https://user-images.githubusercontent.com/79301323/175087107-823cb347-8bcd-4d96-95ad-46ca5cb2e387.png)
 
   
+      <Interface Segragation Principle<p> 
+      <p>prinsip yang menyatakan bahwa sebuah objek client tidak boleh dipaksa untuk mengimplementasikan sebuah interface yang tidak ia gunakan. Atau objek client tidak boleh bergantung pada metode yang tidak ia gunakan.<p>
+        
+        
